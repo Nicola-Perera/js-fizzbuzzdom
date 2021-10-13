@@ -1,0 +1,19 @@
+/* reset rules */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* common rules */
+body {
+    font-family: Arial;
+    background-color: #183A4A;
+}
+
+h1 {
+    color: #fff;
+    font-size: 4rem;
+    text-align: center;
+    margin: 4rem 0;
+}
