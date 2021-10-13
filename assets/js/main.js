@@ -5,5 +5,6 @@ console.log(numbersTable);
 
 // ciclo per aggiungere numeri 1-100 ad html
 for (let i = 1; i < 101; i++) {
-    
+    const cell = i;
+    console.log(cell)
 }
